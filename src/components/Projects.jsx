@@ -63,6 +63,16 @@ export default function Projects() {
             </p>
           </div>
 
+          <div className="bg-card backdrop-blur-xl border border-white/10 p-8 rounded-2xl hover:-translate-y-2 transition duration-300">
+            <h3 className="text-2xl font-semibold text-primary mb-4">
+              QueryDocs
+            </h3>
+            <p className="text-gray-400">
+              RAG-based Document Intelligence System where users can upload documents and ask questions about them. 
+              Used PostgreSQL with pgvector extension as vector database, Used Llama 3 via Ollama as LLM.
+            </p>
+          </div>
+
         </div>
       </div>
     </section>
