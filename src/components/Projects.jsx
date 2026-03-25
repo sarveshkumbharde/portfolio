@@ -48,7 +48,7 @@ export default function Projects() {
             </h3>
             <p className="text-gray-400">
               Real-time collaborative editor powered by YJS CRDTs, Monaco,
-              multi-language execution via Piston API, and WebSocket sync.
+              multi-language execution via Docker, and WebSocket sync.
               Designed for concurrency without conflicts.
             </p>
           </div>
