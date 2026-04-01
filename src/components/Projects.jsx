@@ -55,11 +55,12 @@ export default function Projects() {
 
           <div className="bg-card backdrop-blur-xl border border-white/10 p-8 rounded-2xl hover:-translate-y-2 transition duration-300">
             <h3 className="text-2xl font-semibold text-primary mb-4">
-              QUICK.AI
+              Incident Reporting System
             </h3>
             <p className="text-gray-400">
-              Multi-service AI SaaS with Stripe subscriptions, Redis caching,
-              JWT-based auth, role-based entitlements and API rate limiting.
+              Role-based Incident Reporting System where Users can report the incident and track them, 
+              Admins manage incident and users, Authorities can update the status of incidents.
+              Used Mongodb, React, Express, Node, Socket.io
             </p>
           </div>
 

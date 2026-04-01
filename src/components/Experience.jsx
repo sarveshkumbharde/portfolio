@@ -5,11 +5,11 @@ export default function Experience() {
 
       <div className="max-w-4xl mx-auto text-white">
         <h3 className="text-xl font-semibold text-primary">
-          Backend Intern – Incident Reporting System
+          Backend Intern – Quick.AI-SAAS platform
         </h3>
         <p className="text-gray-400 mt-3">
-          Developed RBAC system, real-time notification architecture using Socket.io,
-          and optimized MongoDB queries with schema-level relational mapping.
+          Developed backend of SAAS application with redis caching, rate limiting and OAuth authentication. Also integrate LLM for text generation,
+          cloudinary api for image editing and clipdrop api for image creation.
         </p>
       </div>
     </section>
